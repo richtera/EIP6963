@@ -111,4 +111,8 @@ export const supportedWallets = [
     name: "Loopring",
     url: "https://www.loopring.io",
   },
+  {
+    name: "Universal Profiles",
+    url: "https://my.universalprofile.cloud",
+  },
 ];
